@@ -2,10 +2,11 @@
 > 65 Questions (130 minutes) | 193 different services
 
 ## Basic
-- [Global Infrastructure](https://github.com/8luebottle/AWS-SAA-Note/blob/master/Basic/global_infrastructure.md)
+- [Global Infrastructure](./Basic/global_infrastructure.md)
 
 ## Products and Services
-- [Migration](https://github.com/8luebottle/AWS-SAA-Note/blob/master/Products-and-Services/migration.md)
+- [Migration](./Products-and-Services/migration.md)
+- [Storage](./Products-and-Services/storage.md)
 
 ## Five Pillars
 <img width="700" alt="5 pillars of AWS" src="https://user-images.githubusercontent.com/48475824/125151448-2738d980-e181-11eb-9f29-a8eed7a9bc2f.png">
