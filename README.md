@@ -346,3 +346,15 @@ AWS 에서는 무수히 많은 서비스가 존재하며 끊임없이 새로운 
 
 ### Besides the Core Services  
 그 외의 서비스들은 각각 **서비스의 기능이 무엇인지**, **어떠한 경우에 사용하는지** 등을 설명할 수 있을 정도로만 알면 된다.  
+
+
+## Study Materials
+### From AWS
+> FAQs, Whitepapers, and Documentation  
+
+시험 공부용으로 AWS에서 제공하는 Documents, FAQs, 그리고 Whitepapers 를 읽어보는 것이 중요하다.  
+
+#### Whitepapers
+- [AWS Prescriptive Guideance-Backup and recovery approaches on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/backup-recovery/backup-recovery.pdf)
+- [Overview of Amazon Web Services](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
+- [Architecting for the Cloud](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
