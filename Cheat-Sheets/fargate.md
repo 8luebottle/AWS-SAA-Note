@@ -1,5 +1,5 @@
 # AWS Fargate
-> Technology that you can use with Amazon ECS to run container without having to manager servers or clusters of Amazon ECS instances.
+> Technology that you can use with Amazon ECS to run containers without having to manage servers or clusters of Amazon ECS instances.
 
 <img width="800" alt="AWS Fargate" src="https://user-images.githubusercontent.com/48475824/145221219-43e55796-3c11-4c6a-8e0c-f7aba1419612.png">
 
