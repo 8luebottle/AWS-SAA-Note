@@ -4,6 +4,11 @@
 ## Basic
 - [Global Infrastructure](./Basic/global_infrastructure.md)
 
+## Cheat Sheets
+| Read this before an exam
+- [Amazon Cognito](./cheat-Sheets/cognito)
+
+
 ## Products and Services
 - [Migration](./Products-and-Services/migration.md)
 - [Storage](./Products-and-Services/storage.md)
