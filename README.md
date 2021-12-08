@@ -9,6 +9,7 @@
 - [Amazon Cognito](./Cheat-Sheets/cognito.md)
 - [Aamzon EventBridge](./Cheat-Sheets/eventbridge.md)
 - [AWS Fargate](./Cheat-Sheets/fargate.md)
+- [Amazon Kinesis](./Cheat-Sheets/kinesis.md)
 
 ## Products and Services
 - [Migration](./Products-and-Services/migration.md)
