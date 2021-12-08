@@ -1,4 +1,7 @@
 # AWS-SAA-Note
+![Made with love by 8luebottle](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8Fby-%208luebottle%20-blue)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8luebottle%2FAWS-SAA-Note)](https://hits.seeyoufarm.com)
+
 > 65 Questions (130 minutes) | 193 different services
 
 ## Basic
