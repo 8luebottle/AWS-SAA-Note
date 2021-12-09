@@ -14,6 +14,7 @@
 - [AWS Fargate](./Cheat-Sheets/fargate.md)
 - [Amazon Kinesis](./Cheat-Sheets/kinesis.md)
 - [Amazon SNS](./Cheat-Sheets/sns.md)
+- [Amazon SQS](./Cheat-Sheets/sqs.md)
 
 ## Products and Services
 - [Migration](./Products-and-Services/migration.md)
