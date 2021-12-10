@@ -12,6 +12,7 @@
 - [Amazon Aurora](./Cheat-Sheets/aurora.md)
 - [Amazon Cognito](./Cheat-Sheets/cognito.md)
 - [Amazon DyanmoDB](./Cheat-Sheets/dynamodb.md)
+- [Amazon EBS](./Cheat-Sheets/ebs.md)
 - [Aamzon EventBridge](./Cheat-Sheets/eventbridge.md)
 - [AWS Fargate](./Cheat-Sheets/fargate.md)
 - [Amazon Kinesis](./Cheat-Sheets/kinesis.md)
