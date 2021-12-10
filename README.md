@@ -10,6 +10,7 @@
 ## Cheat Sheets
 > Read this before an exam
 
+- [Amazon Machine Images](./Cheat-Sheets/ami.md)
 - [Amazon Aurora](./Cheat-Sheets/aurora.md)
 - [Amazon Cognito](./Cheat-Sheets/cognito.md)
 - [Amazon DyanmoDB](./Cheat-Sheets/dynamodb.md)
