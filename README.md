@@ -12,6 +12,7 @@
 
 - [Amazon Machine Images](./Cheat-Sheets/ami.md)
 - [Amazon Aurora](./Cheat-Sheets/aurora.md)
+- [AWS Auto Scaling](./Cheat-Sheets/autoscaling.md)
 - [Amazon Cognito](./Cheat-Sheets/cognito.md)
 - [Amazon DyanmoDB](./Cheat-Sheets/dynamodb.md)
 - [Amazon EBS](./Cheat-Sheets/ebs.md)
