@@ -17,6 +17,7 @@
 - [Amazon EBS](./Cheat-Sheets/ebs.md)
 - [Aamzon EC2](./Cheat-Sheets/ec2.md)
 - [Aamzon ElastiCache](./Cheat-Sheets/elasticache.md)
+- [Amazon EMR](./Cheat-Sheets/emr.md)
 - [Aamzon EventBridge](./Cheat-Sheets/eventbridge.md)
 - [AWS Fargate](./Cheat-Sheets/fargate.md)
 - [Amazon Kinesis](./Cheat-Sheets/kinesis.md)
