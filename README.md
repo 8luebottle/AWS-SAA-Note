@@ -19,6 +19,7 @@
 - [Amazon EFS](./Cheat-Sheets/efs.md)
 - [Aamzon ElastiCache](./Cheat-Sheets/elasticache.md)
 - [AWS Elastic Beanstalk](./Cheat-Sheets/elasticbeanstalk.md)
+- [AWS ELB](./Cheat-Sheets/elb.md)
 - [Amazon EMR](./Cheat-Sheets/emr.md)
 - [Aamzon EventBridge](./Cheat-Sheets/eventbridge.md)
 - [AWS Fargate](./Cheat-Sheets/fargate.md)
@@ -49,7 +50,6 @@
 
 1. **Reliability 안정성**  
   [Reliability Pillar.pdf](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf?e=gs2020&p=fundcore)
-
 
 ## AWS Products and Services
 
