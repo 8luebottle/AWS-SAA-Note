@@ -16,6 +16,7 @@
 - [Amazon DyanmoDB](./Cheat-Sheets/dynamodb.md)
 - [Amazon EBS](./Cheat-Sheets/ebs.md)
 - [Aamzon EC2](./Cheat-Sheets/ec2.md)
+- [Amazon EFS](./Cheat-Sheets/efs.md)
 - [Aamzon ElastiCache](./Cheat-Sheets/elasticache.md)
 - [AWS Elastic Beanstalk](./Cheat-Sheets/elasticbeanstalk.md)
 - [Amazon EMR](./Cheat-Sheets/emr.md)
