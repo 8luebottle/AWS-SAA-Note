@@ -15,6 +15,7 @@
 - [AWS Auto Scaling](./Cheat-Sheets/autoscaling.md)
 - [Bastion Host](./Cheat-Sheets/bastionhost.md)
 - [AWS CloudFormation](./Cheat-Sheets/cloudformation.md)
+- [Amazon CloudWatch](./Cheat-Sheets/cloudwatch.md)
 - [Amazon Cognito](./Cheat-Sheets/cognito.md)
 - [Amazon DyanmoDB](./Cheat-Sheets/dynamodb.md)
 - [Amazon EBS](./Cheat-Sheets/ebs.md)
