@@ -33,6 +33,7 @@
 - [Amazon SNS](./Cheat-Sheets/sns.md)
 - [Amazon SQS](./Cheat-Sheets/sqs.md)
 - [Amazon SWF](./Cheat-Sheets/swf.md)
+- [Amazon VPC](./Cheat-Sheets/vpc.md)
 
 ## Products and Services
 - [Migration](./Products-and-Services/migration.md)
