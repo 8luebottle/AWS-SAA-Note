@@ -34,6 +34,7 @@
 - [Amazon SQS](./Cheat-Sheets/sqs.md)
 - [Amazon SWF](./Cheat-Sheets/swf.md)
 - [Amazon VPC](./Cheat-Sheets/vpc.md)
+- [Amazon VPC Endpoints](./Cheat-Sheets/vpcendpoints.md)
 
 ## Products and Services
 - [Migration](./Products-and-Services/migration.md)
