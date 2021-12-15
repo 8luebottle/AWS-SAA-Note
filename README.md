@@ -19,6 +19,7 @@
 - [AWS CloudTrail](./Cheat-Sheets/cloudtrail.md)
 - [Amazon CloudWatch](./Cheat-Sheets/cloudwatch.md)
 - [Amazon Cognito](./Cheat-Sheets/cognito.md)
+- [AWS DataSync](./Cheat-Sheets/datasync.md)
 - [AWS Direct Connect](./Cheat-Sheets/directconnect.md)
 - [Amazon DyanmoDB](./Cheat-Sheets/dynamodb.md)
 - [Amazon EBS](./Cheat-Sheets/ebs.md)
