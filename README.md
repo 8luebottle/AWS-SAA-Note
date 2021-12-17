@@ -38,6 +38,7 @@
 - [Amazon SWF](./Cheat-Sheets/swf.md)
 - [Amazon VPC](./Cheat-Sheets/vpc.md)
 - [Amazon VPC Endpoints](./Cheat-Sheets/vpcendpoints.md)
+- [AWS WAF](./Cheat-Sheets/waf.md)
 
 ## Products and Services
 - [Migration](./Products-and-Services/migration.md)
