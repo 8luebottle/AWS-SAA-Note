@@ -36,6 +36,7 @@
 - [AWS Shield](./Cheat-Sheets/shield.md)
 - [Amazon SNS](./Cheat-Sheets/sns.md)
 - [Amazon SQS](./Cheat-Sheets/sqs.md)
+- [AWS Storage Gateway](./Cheat-Sheets/storagegateway.md)
 - [Amazon SWF](./Cheat-Sheets/swf.md)
 - [Amazon VPC](./Cheat-Sheets/vpc.md)
 - [Amazon VPC Endpoints](./Cheat-Sheets/vpcendpoints.md)
