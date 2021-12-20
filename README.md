@@ -33,6 +33,7 @@
 - [AWS Fargate](./Cheat-Sheets/fargate.md)
 - [Amazon FSx](./Cheat-Sheets/fsx.md)
 - [Amazon Kinesis](./Cheat-Sheets/kinesis.md)
+- [AWS Shield](./Cheat-Sheets/shield.md)
 - [Amazon SNS](./Cheat-Sheets/sns.md)
 - [Amazon SQS](./Cheat-Sheets/sqs.md)
 - [Amazon SWF](./Cheat-Sheets/swf.md)
